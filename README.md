@@ -38,3 +38,7 @@ The most interesting part of this task was testing the changes and actually seei
 To make the program more user-friendly, I added simple printf() statements to indicate the success or failure of each operation. I also ensured that the code was properly commented to make it easy to understand for others or for me to revisit later.
 
 Overall, this task greatly improved my understanding of file handling in C. It gave me hands-on experience in writing practical code that can store and retrieve data efficiently. I now feel more confident in working with file I/O operations and look forward to implementing similar features in more complex projects in the future.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/5eba6c92-6bbe-4ec6-bd48-52ac93da4996)
